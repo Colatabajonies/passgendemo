@@ -13,8 +13,8 @@ import javax.servlet.http.HttpServletResponse;
 
 import org.bouncycastle.jce.provider.BouncyCastleProvider;
 
-import main.java.com.passgen.signing.SigningInformationUtil;
-import main.java.com.passgen.signing.SigningInformation;
+import com.passgen.signing.SigningInformationUtil;
+import com.passgen.signing.SigningInformation;
 
 import java.io.*;
 import java.net.URL;

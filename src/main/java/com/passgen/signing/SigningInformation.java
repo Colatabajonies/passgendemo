@@ -1,4 +1,4 @@
-package main.java.com.passgen.signing;
+package com.passgen.signing;
 
 import java.security.PrivateKey;
 import java.security.cert.X509Certificate;

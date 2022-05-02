@@ -1,4 +1,4 @@
-package main.java.com.passgen.signing;
+package com.passgen.signing;
 
 import org.bouncycastle.asn1.ASN1EncodableVector;
 import org.bouncycastle.asn1.DERSet;
